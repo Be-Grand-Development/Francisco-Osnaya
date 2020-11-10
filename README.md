@@ -8,6 +8,7 @@
   - Autos
   
 2.- Las tablas "Marcas", "Años", "Modelos", "Colores", llenarlas con un script en base de datos, agregar script al proyecto
+
 3.- Crear Endpoint "CrearAuto", será de tipo POST, recibirá un JSON que contenga el ID de los 4 catalogos y los guardara en la tabla "Autos" 
 4.- Crear Endpoint "ListarAutos", será de tipo GET y listará los autos de la tabla "Autos"
 5.- Crear Endpoint "ActualizarAuto", será de tipo PUT y actualizará los datos de un auto en la tabla "Autos"
