@@ -4,7 +4,7 @@
   - Marcas
   - Años
   - Modelos
-  - Corelos
+  - Colores
   - Autos
   
 2.- Las tablas "Marcas", "Años", "Modelos", "Colores", llenarlas con un script en base de datos, agregar script al proyecto
